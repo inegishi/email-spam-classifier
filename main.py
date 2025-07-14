@@ -62,3 +62,5 @@ comparison = pd.DataFrame({
     "predicted": Y_pred
 })
 print(comparison.head(50))
+
+model.__sizeof__
