@@ -54,7 +54,8 @@ This project uses a dataset of email contents with labels indicating whether the
 | Mean Squared Error (MSE) | 0.03 |
 | R² Score      | 0.85   |
 
-> Sample Performacnce.
+> Sample Performacnce:
+> 
 > <img width="453" height="767" alt="image" src="https://github.com/user-attachments/assets/101d4faf-2e3b-4287-be7f-5f4a76f2114f" />
 
 
